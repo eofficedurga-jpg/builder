@@ -1,0 +1,6 @@
+{
+  "name": "NirmanReply",
+  "description": "The Quote Reply Fix for Kakinada house builders: when a form or ad lead comes in, WhatsApp goes back to that family at once with your basic finish rate and a time to visit the site.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
